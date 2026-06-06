@@ -16,6 +16,9 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
+          <h1>Welcome to Vite + React! 🚀 </h1>
+        </div>
+        <div>
           <h1>Get started</h1>
           <p>
             Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
@@ -29,7 +32,7 @@ function App() {
           Count is {count}
         </button>
       </section>
-
+      
       <div className="ticks"></div>
 
       <section id="next-steps">
